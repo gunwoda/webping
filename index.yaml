@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  web-ping:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-11-06T02:11:32.969375141Z"
+    description: A simple web pinger
+    digest: facd8f76b2548e15ce3390ee72ee8c6a565ba133f95085ab5294603af957d524
+    name: web-ping
+    type: application
+    urls:
+    - web-ping-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-06T02:11:32.968983086Z"
